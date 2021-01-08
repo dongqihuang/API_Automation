@@ -1,0 +1,33 @@
+[INFO 2021-01-08-18:09:08]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:09:09]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/params/yamlfiles/basic.yml
+[INFO 2021-01-08-18:09:09]解析yaml文件完成
+[INFO 2021-01-08-18:09:09]first test run over.
+[INFO 2021-01-08-18:09:09]second test run over.
+[INFO 2021-01-08-18:26:55]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:26:56]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/params/yamlfiles/basic.yml
+[INFO 2021-01-08-18:26:56]解析yaml文件完成
+[INFO 2021-01-08-18:26:56]first test run over.
+[INFO 2021-01-08-18:26:56]second test run over.
+[INFO 2021-01-08-18:31:56]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:31:57]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/datafiles/basic.yml
+[INFO 2021-01-08-18:31:57]解析yaml文件完成
+[INFO 2021-01-08-18:31:58]first test run over.
+[INFO 2021-01-08-18:31:58]second test run over.
+[INFO 2021-01-08-18:33:52]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:33:53]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/datafiles/basic.yml
+[INFO 2021-01-08-18:33:53]解析yaml文件完成
+[INFO 2021-01-08-18:33:53]first test run over.
+[INFO 2021-01-08-18:33:53]second test run over.
+[INFO 2021-01-08-18:33:54]执行用例完成，请查看结果。
+[INFO 2021-01-08-18:42:45]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:42:46]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/datafiles/basic.yml
+[INFO 2021-01-08-18:42:46]解析yaml文件完成
+[INFO 2021-01-08-18:42:47]first test run over.
+[INFO 2021-01-08-18:42:47]second test run over.
+[INFO 2021-01-08-18:42:47]执行用例完成，请查看结果。
+[INFO 2021-01-08-18:48:41]初始化配置文件, path=/Users/huangdongqi/PycharmProjects/API_Automation/config/config.ini
+[INFO 2021-01-08-18:48:42]开始解析yaml文件，路径：/Users/huangdongqi/PycharmProjects/API_Automation/datafiles/basic.yml
+[INFO 2021-01-08-18:48:42]解析yaml文件完成
+[INFO 2021-01-08-18:48:43]first test run over.
+[INFO 2021-01-08-18:48:43]second test run over.
+[INFO 2021-01-08-18:48:51]执行用例完成，请查看结果。

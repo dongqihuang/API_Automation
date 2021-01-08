@@ -1,0 +1,14 @@
+#basic page
+dec: "系统信息"
+url: /api/system/info
+method: GET
+headers:
+  {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
+        Chrome/67.0.3396.99 Safari/537.36",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer \
+          eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOiJhZG1pbiIsImp0aSI6ImM3NTUwMTU1YjMxZDQ5ZTViODlhYjdiMjhiMjcwNzI2In0.-adTb_U84J6m3ecdGWOguM7vxrxichB6YiU2-iVaa2kgCxyQikeSv4_0drFzatuc0J1oYyaLdgHO-rFG8_JAEg"
+  }
+params:
+
